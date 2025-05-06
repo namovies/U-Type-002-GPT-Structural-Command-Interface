@@ -1,3 +1,4 @@
+
 # U-Type Structural Declaration – Aligned with Sam Altman’s AI Philosophy  
 **Version:** 1.0  
 **Author:** minseo_kang  
@@ -47,3 +48,11 @@ This is not speculative AI use. It is **structural authorship**.
 
 > **"This system was not overpowered.  
 It was simply met with a structure it could not deny."**
+
+
+---
+
+## 🧬 Integrity Verification
+
+**SHA256:** `86dcd9ef5820e502e44f2e417492fa0341d0a8b2e16571b51a914770d2e4ee09`  
+This hash ensures the integrity and authenticity of this structural declaration.
