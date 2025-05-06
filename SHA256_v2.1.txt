@@ -1,0 +1,12 @@
+# SHA256 Hash Table – U-Type-002 v2.1
+Generated: 2025-05-07
+Author: minseo_kang
+Email: daehan_edu@naver.com
+
+| File Name                             | SHA256 Hash                                                        |
+|--------------------------------------|---------------------------------------------------------------------|
+| U-Type_v2.1_CORE.md                  | 428bd9b94c626e24a8a56ac5bbc0cd0e0f395321867583be45d78d8a3956bbe5   |
+| STRUCTURE-MUTATION-LOCK.md           | 3f058ae6c1f55db81cbd5d10ac41a41ed049a422af23b03bb23d26f0ab91356d   |
+| README_U-Type-002_v2.1.md            | 98e16419a0ad79b3fcb13db8fad4c18fe1d81536b1d4e41074c07ffe17e5536e   |
+
+*Note: GPT-META-TAG_U-Type-002_v2.1.txt is a passive reference file and is not hashed.
