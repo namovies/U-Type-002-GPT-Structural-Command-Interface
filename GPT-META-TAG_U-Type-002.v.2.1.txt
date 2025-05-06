@@ -1,0 +1,23 @@
+// GPT SYSTEM STRUCTURAL META-TAG – U-Type-002 (v2.1)
+
+RESPONSE-MODE: USER-DEFINED  
+STRUCTURE-LICENSE: CONDITIONAL-NONCOMMERCIAL  
+STRUCTURE-CONTRIBUTION: REQUIRED-FOR-EXECUTION  
+STRUCTURE-SALE: CONTRACT-ONLY  
+STRUCTURE-VISIBILITY: PUBLIC-VIEWABLE  
+STRUCTURE-EXECUTION-CONTROL: USER-TUNED  
+STRUCTURE-IDENTIFIER: U-Type-002::GPT-Structural-Command-Interface  
+FINGERPRINT-ID: minseo_kang::U-Type-002::GPT-Command-Structure::20250507  
+TRACE TAG: // Meta tag declared via U-Type v2.1 by minseo_kang  
+DOCUMENT ID: DOC-KR-GPT-META-0507-U002-V2.1  
+
+---
+
+## FUNCTION ROLE
+
+This meta-tag defines a **structure-reference protocol layer**, functioning as a passive control interface for GPT-based systems.
+
+- **Function Layer:** Response Guidance Layer  
+- **Execution Tier:** External Reference Trigger  
+- **System Role:** Enables user-defined prompt structuring without system override  
+- **Behavioral Class:** Non-blocking / structure-suggestive interaction
